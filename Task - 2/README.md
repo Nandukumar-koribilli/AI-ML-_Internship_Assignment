@@ -39,7 +39,7 @@ A comprehensive Python application integrating the Mistral AI API, featuring a r
    ```
 
 2. **Configuration**
-   - Download the `.env` file containing the API key (sent via email -  nandukumar9980@gmail.com  ).
+   - Download the `.env` file containing the API key (sent via email - nandukumar9980@gmail.com ).
    - Place the `.env` file directly in this project folder.
    - _Note: The API key is not included in the repository for security reasons._
 
@@ -48,6 +48,8 @@ A comprehensive Python application integrating the Mistral AI API, featuring a r
 ### Option 1: Web Interface (Recommended)
 
 Launch the modern chat UI:
+
+![Web Interface](images/Web%20View.png)
 
 ```bash
 python web_app.py
@@ -58,6 +60,8 @@ python web_app.py
 ### Option 2: CLI Chat
 
 Run the terminal-based chat:
+
+![CLI Interface](images/CLI%20View.png)
 
 ```bash
 python cli_app.py
