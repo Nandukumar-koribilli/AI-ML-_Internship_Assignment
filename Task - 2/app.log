@@ -1,0 +1,113 @@
+2026-01-07 13:49:26,445:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-07 13:49:26,445:INFO:[33mPress CTRL+C to quit[0m
+2026-01-07 13:49:26,465:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 13:49:27,186:WARNING: * Debugger is active!
+2026-01-07 13:49:27,190:INFO: * Debugger PIN: 410-121-188
+2026-01-07 13:50:38,241:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dotenv\\__init__.py', reloading
+2026-01-07 13:50:38,334:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dotenv\\main.py', reloading
+2026-01-07 13:50:38,612:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 13:50:39,653:WARNING: * Debugger is active!
+2026-01-07 13:50:39,659:INFO: * Debugger PIN: 410-121-188
+2026-01-07 13:54:39,852:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-07 13:54:39,853:INFO:[33mPress CTRL+C to quit[0m
+2026-01-07 13:54:39,870:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 13:54:40,598:WARNING: * Debugger is active!
+2026-01-07 13:54:40,601:INFO: * Debugger PIN: 410-121-188
+2026-01-07 13:55:11,218:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\typing.py', reloading
+2026-01-07 13:55:11,888:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 13:55:12,618:WARNING: * Debugger is active!
+2026-01-07 13:55:12,622:INFO: * Debugger PIN: 410-121-188
+2026-01-07 13:56:37,475:INFO: * Detected change in 'Y:\\ai ml inten project\\AI-ML-_Internship_Assignment\\Task - 2\\web_app.py', reloading
+2026-01-07 13:56:37,595:INFO: * Detected change in 'Y:\\ai ml inten project\\AI-ML-_Internship_Assignment\\Task - 2\\web_app.py', reloading
+2026-01-07 13:56:37,595:INFO: * Detected change in 'Y:\\ai ml inten project\\AI-ML-_Internship_Assignment\\Task - 2\\web_app.py', reloading
+2026-01-07 13:56:38,004:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 13:56:38,767:WARNING: * Debugger is active!
+2026-01-07 13:56:38,771:INFO: * Debugger PIN: 410-121-188
+2026-01-07 13:56:48,336:INFO:127.0.0.1 - - [07/Jan/2026 13:56:48] "GET / HTTP/1.1" 200 -
+2026-01-07 13:56:48,738:INFO:127.0.0.1 - - [07/Jan/2026 13:56:48] "GET /static/style.css HTTP/1.1" 200 -
+2026-01-07 13:56:48,896:INFO:127.0.0.1 - - [07/Jan/2026 13:56:48] "GET /static/script.js HTTP/1.1" 200 -
+2026-01-07 13:56:49,595:INFO:127.0.0.1 - - [07/Jan/2026 13:56:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-07 13:56:52,348:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-07 13:56:52,348:INFO:[33mPress CTRL+C to quit[0m
+2026-01-07 13:56:52,367:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 13:56:53,329:WARNING: * Debugger is active!
+2026-01-07 13:56:53,336:INFO: * Debugger PIN: 410-121-188
+2026-01-07 13:57:20,141:INFO:127.0.0.1 - - [07/Jan/2026 13:57:20] "GET / HTTP/1.1" 200 -
+2026-01-07 13:57:20,204:INFO:127.0.0.1 - - [07/Jan/2026 13:57:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2026-01-07 13:57:20,220:INFO:127.0.0.1 - - [07/Jan/2026 13:57:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2026-01-07 13:57:53,308:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\__init__.py', reloading
+2026-01-07 13:57:53,313:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\__init__.py', reloading
+2026-01-07 13:57:53,385:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\app.py', reloading
+2026-01-07 13:57:53,482:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\templating.py', reloading
+2026-01-07 13:57:53,482:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\templating.py', reloading
+2026-01-07 13:57:53,558:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\globals.py', reloading
+2026-01-07 13:57:53,621:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\wrappers.py', reloading
+2026-01-07 13:57:53,682:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\werkzeug\\__init__.py', reloading
+2026-01-07 13:57:53,749:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2026-01-07 13:57:53,790:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 13:57:53,835:INFO: * Detected change in 'C:\\Users\\nandu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2026-01-07 13:57:54,185:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 13:57:54,829:WARNING: * Debugger is active!
+2026-01-07 13:57:54,834:INFO: * Debugger PIN: 410-121-188
+2026-01-07 13:57:55,169:WARNING: * Debugger is active!
+2026-01-07 13:57:55,175:INFO: * Debugger PIN: 410-121-188
+2026-01-07 13:58:02,365:INFO:127.0.0.1 - - [07/Jan/2026 13:58:02] "GET / HTTP/1.1" 200 -
+2026-01-07 13:58:02,819:INFO:127.0.0.1 - - [07/Jan/2026 13:58:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2026-01-07 13:58:02,879:INFO:127.0.0.1 - - [07/Jan/2026 13:58:02] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2026-01-07 13:58:31,770:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-07 13:58:31,770:INFO:[33mPress CTRL+C to quit[0m
+2026-01-07 13:58:31,790:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 13:58:32,694:WARNING: * Debugger is active!
+2026-01-07 13:58:32,703:INFO: * Debugger PIN: 410-121-188
+2026-01-07 13:58:36,464:INFO:127.0.0.1 - - [07/Jan/2026 13:58:36] "GET / HTTP/1.1" 200 -
+2026-01-07 13:58:36,774:INFO:127.0.0.1 - - [07/Jan/2026 13:58:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2026-01-07 13:58:36,824:INFO:127.0.0.1 - - [07/Jan/2026 13:58:36] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2026-01-07 13:59:45,438:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-07 13:59:45,439:INFO:[33mPress CTRL+C to quit[0m
+2026-01-07 13:59:45,462:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 13:59:46,260:WARNING: * Debugger is active!
+2026-01-07 13:59:46,266:INFO: * Debugger PIN: 410-121-188
+2026-01-07 14:00:02,747:INFO:127.0.0.1 - - [07/Jan/2026 14:00:02] "GET / HTTP/1.1" 200 -
+2026-01-07 14:00:03,195:INFO:127.0.0.1 - - [07/Jan/2026 14:00:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2026-01-07 14:00:03,224:INFO:127.0.0.1 - - [07/Jan/2026 14:00:03] "GET /static/script.js HTTP/1.1" 200 -
+2026-01-07 14:00:06,542:INFO:127.0.0.1 - - [07/Jan/2026 14:00:06] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:00:25,776:INFO:127.0.0.1 - - [07/Jan/2026 14:00:25] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:00:36,283:INFO:127.0.0.1 - - [07/Jan/2026 14:00:36] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:00:54,251:INFO:127.0.0.1 - - [07/Jan/2026 14:00:54] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:02:25,653:INFO:127.0.0.1 - - [07/Jan/2026 14:02:25] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:02:46,940:INFO:127.0.0.1 - - [07/Jan/2026 14:02:46] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:02:53,071:INFO:127.0.0.1 - - [07/Jan/2026 14:02:53] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:03:10,993:INFO:127.0.0.1 - - [07/Jan/2026 14:03:10] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:04:39,391:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-07 14:04:39,391:INFO:[33mPress CTRL+C to quit[0m
+2026-01-07 14:04:39,412:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 14:04:40,350:WARNING: * Debugger is active!
+2026-01-07 14:04:40,357:INFO: * Debugger PIN: 410-121-188
+2026-01-07 14:08:47,891:INFO:127.0.0.1 - - [07/Jan/2026 14:08:47] "GET / HTTP/1.1" 200 -
+2026-01-07 14:08:48,016:INFO:127.0.0.1 - - [07/Jan/2026 14:08:48] "GET /static/style.css HTTP/1.1" 200 -
+2026-01-07 14:08:48,038:INFO:127.0.0.1 - - [07/Jan/2026 14:08:48] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2026-01-07 14:09:21,911:INFO:127.0.0.1 - - [07/Jan/2026 14:09:21] "GET / HTTP/1.1" 200 -
+2026-01-07 14:09:21,998:INFO:127.0.0.1 - - [07/Jan/2026 14:09:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2026-01-07 14:09:22,021:INFO:127.0.0.1 - - [07/Jan/2026 14:09:22] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2026-01-07 14:12:21,712:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-07 14:12:21,714:INFO:[33mPress CTRL+C to quit[0m
+2026-01-07 14:12:21,735:INFO: * Restarting with watchdog (windowsapi)
+2026-01-07 14:12:22,653:WARNING: * Debugger is active!
+2026-01-07 14:12:22,656:INFO: * Debugger PIN: 410-121-188
+2026-01-07 14:12:24,384:INFO:127.0.0.1 - - [07/Jan/2026 14:12:24] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:12:28,902:INFO:127.0.0.1 - - [07/Jan/2026 14:12:28] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:12:38,731:INFO:127.0.0.1 - - [07/Jan/2026 14:12:38] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:12:49,666:INFO:127.0.0.1 - - [07/Jan/2026 14:12:49] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:13:23,053:INFO:127.0.0.1 - - [07/Jan/2026 14:13:23] "GET / HTTP/1.1" 200 -
+2026-01-07 14:13:23,330:INFO:127.0.0.1 - - [07/Jan/2026 14:13:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2026-01-07 14:13:23,358:INFO:127.0.0.1 - - [07/Jan/2026 14:13:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2026-01-07 14:13:38,345:INFO:127.0.0.1 - - [07/Jan/2026 14:13:38] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:14:15,391:INFO:127.0.0.1 - - [07/Jan/2026 14:14:15] "POST /api/chat HTTP/1.1" 200 -
+2026-01-07 14:14:37,693:INFO:127.0.0.1 - - [07/Jan/2026 14:14:37] "POST /api/chat HTTP/1.1" 200 -
