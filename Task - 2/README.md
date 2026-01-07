@@ -1,6 +1,6 @@
 # Mistral AI Integration Project
 
-A comprehensive Python application integrating the Mistral AI API, featuring a robust CLI and a premium web-based chat interface.
+A comprehensive Python application integrating the **Mistral AI API**, featuring a robust CLI and a premium web-based chat interface. This project specifically leverages the `mistral-tiny` model to generate intelligent responses.
 
 ## 🌟 Features
 
