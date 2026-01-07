@@ -45,7 +45,7 @@ A comprehensive Python application integrating the Mistral AI API, featuring a r
 
 ## 📖 Usage
 
-### Option 1: Web Interface (Recommended)
+### Option 1: Web Interface 
 
 Launch the modern chat UI:
 
